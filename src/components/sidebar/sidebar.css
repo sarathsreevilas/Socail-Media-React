@@ -8,14 +8,16 @@
   width: 5px;
 }
 ::-webkit-scrollbar-track {
-  width: 5px;
-}
-::-webkit-scrollbar-thumb {
   background-color: #f1f1f1;
 }
+::-webkit-scrollbar-thumb {
+  background-color: rgb(244, 238, 238);
+
+}
+
 
 .sidebarWrapper {
-  background-color: rgb(179, 179, 179);
+  padding: 20px;
 }
 
 .sidebarList {
